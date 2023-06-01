@@ -37,12 +37,15 @@ public class QueenPuzzle {
     }
 
     private static boolean canPlaceQueen(int row, int col) {
+
+        //check all right position from current queen
         for (int c = 0; c < 8; c++) {
             if(board[row][c] == '*') {
                 return false;
             }
         }
 
+        //check all down position from current queen
         for (int r = 0; r < 8; r++) {
             if(board[r][col] == '*') {
                 return false;
