@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Algorithms-Fundamentals.iml" filepath="$PROJECT_DIR$/.idea/Algorithms-Fundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture_1/Recursion and Backtracking.iml" filepath="$PROJECT_DIR$/lecture_1/Recursion and Backtracking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercices/exercices.iml" filepath="$PROJECT_DIR$/exercices/exercices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture_2/lecture_2.iml" filepath="$PROJECT_DIR$/lecture_2/lecture_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture_3/lecture_3.iml" filepath="$PROJECT_DIR$/lecture_3/lecture_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture_4/lecture_4.iml" filepath="$PROJECT_DIR$/lecture_4/lecture_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture_5/lecture_5.iml" filepath="$PROJECT_DIR$/lecture_5/lecture_5.iml" />
+    </modules>
+  </component>
+</project>
